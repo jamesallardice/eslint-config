@@ -1,0 +1,7 @@
+{
+  "extends": "./packages/base/lib/index.js",
+  "parser": "babel-eslint",
+  "env": {
+    "node": true
+  }
+}
