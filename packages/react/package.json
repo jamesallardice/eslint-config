@@ -1,6 +1,6 @@
 {
   "name": "@jamesallardice/eslint-config-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal React ESLint config",
   "main": "lib/index.js",
   "license": "MIT",
