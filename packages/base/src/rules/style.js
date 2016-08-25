@@ -89,6 +89,7 @@ export default {
       2,
       {
         ignoreUrls: true,
+        ignoreTrailingComments: true,
       },
     ],
 
