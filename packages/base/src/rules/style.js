@@ -88,6 +88,7 @@ export default {
     'max-len': [
       2,
       {
+        code: 120,
         ignoreUrls: true,
         ignoreTrailingComments: true,
       },
