@@ -84,10 +84,11 @@ export default {
     // Don't enforce a maximum level of nested blocks.
     'max-depth': 0,
 
-    // Require most lines to be a maximum of 80 characters long.
+    // Require most lines to be a maximum of 120 characters long.
     'max-len': [
       2,
       {
+        code: 120,
         ignoreUrls: true,
         ignoreTrailingComments: true,
       },
